@@ -2,6 +2,7 @@ Ansible Role: Terminator
 ========================
 
 [![Build Status](https://travis-ci.org/gantsign/ansible-role-terminator.svg?branch=master)](https://travis-ci.org/gantsign/ansible-role-terminator)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-gantsign.terminator-blue.svg)](https://galaxy.ansible.com/gantsign/terminator)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/gantsign/ansible-role-terminator/master/LICENSE)
 
 Ansible role for installing the [Terminator](https://launchpad.net/terminator/)
