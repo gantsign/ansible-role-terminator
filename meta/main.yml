@@ -1,6 +1,6 @@
 galaxy_info:
   author: John Freeman
-  description: Ansible role to install the Terminator terminal emulator.
+  description: Role for installing the Terminator terminal emulator.
   company: GantSign Ltd.
   license: MIT
   min_ansible_version: 1.9
