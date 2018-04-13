@@ -16,7 +16,6 @@ Requirements
 * Ubuntu
 
     * Trusty (14.04)
-    * Wily (15.10)
     * Xenial (16.04)
     * Note: other Ubuntu versions may work but have not been tested.
 
