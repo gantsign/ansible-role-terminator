@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: terminator
   author: John Freeman
   description: Role for installing the Terminator terminal emulator.
   company: GantSign Ltd.
