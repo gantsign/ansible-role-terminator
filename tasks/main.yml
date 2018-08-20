@@ -1,9 +1,4 @@
 ---
-- name: add terminator ppa
-  become: yes
-  apt_repository:
-    repo: 'ppa:gnome-terminator'
-
 - name: install terminator
   become: yes
   apt:
