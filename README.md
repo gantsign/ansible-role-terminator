@@ -11,7 +11,7 @@ terminal emulator.
 Requirements
 ------------
 
-* Ansible >= 2.6
+* Ansible >= 2.7
 
 * Ubuntu
 
