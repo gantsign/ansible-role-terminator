@@ -17,6 +17,7 @@ Requirements
 
     * Xenial (16.04)
     * Bionic (18.04)
+    * Focal (20.04)
     * Note: other Ubuntu versions may work but have not been tested.
 
 Role Variables
